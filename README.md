@@ -1,1 +1,1 @@
-# education-workshop-final
+# WDCC React Workshop - Starter project
