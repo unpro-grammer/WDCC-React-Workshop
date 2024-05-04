@@ -25,7 +25,7 @@ export const INITIAL_CONTACTS = [
     name: "Darth Vader",
     phoneNumber: "+1 555-000-1004",
     funFact: "Was originally a Jedi named Anakin Skywalker.",
-    photoUrl: "https://th.bing.com/th/id/OIP.PoS7waY4-VeqgNuBSxVUogAAAA?rs=1&pid=ImgDetMain"
+    photoUrl: "https://preview.redd.it/standing-cat-pfp-pls-v0-ovdg2gh57p4c1.jpg?auto=webp&s=98703885e0eced7caea79ebabaf0c7c7559680a2"
   },
   {
     _id: "983c620f-6500-476f-a856-8791aac32794",
