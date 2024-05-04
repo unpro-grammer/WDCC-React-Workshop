@@ -13,11 +13,15 @@ export default function App() {
     photoUrl: "https://preview.redd.it/standing-cat-pfp-pls-v0-ovdg2gh57p4c1.jpg?auto=webp&s=98703885e0eced7caea79ebabaf0c7c7559680a2"
   }
 
+  function handleContactClick(contact) {
+    console.log(contact);
+  }
+
   return (
     <>
       <div className={styles.container}>
 
-        <Sidebar contacts={INITIAL_CONTACTS} />
+        <Sidebar contacts={INITIAL_CONTACTS} onContactClick={handleContactClick}/>
         {/* <h1>Hello, WDCC! 🐮💻</h1> */}
         <ContactDisplay contact={contact} />
       </div>
